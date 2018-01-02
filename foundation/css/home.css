@@ -1,0 +1,89 @@
+.cocina-body {
+  background: url(../img/fondo.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment:fixed;
+  overflow: scroll;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
+
+.logo-img{
+  width: 30%;
+}
+
+.titulo-cocina{
+  border-right: 1px dashed;
+  color: #FFFFFF;
+}
+
+.cuerpo{
+  background-color: rgba(96,125,139,0.75);
+}
+
+.botones{
+  margin-top: 100px;
+}
+
+.cabecera{
+  margin-top: 10px;
+  border-bottom: 1px solid #FFFFFF;
+}
+
+.cabecera p{
+  font-style:italic;
+}
+
+.no-padding{
+  padding: 0px;
+  margin-top: 20px;
+}
+
+.column-left{
+  background-color: #D1C4E9;
+  margin-top: 10px;
+}
+
+
+.grupo-imagenes p{
+  color: #F50057;
+}
+
+.letra-cocina{
+  text-align: justify;
+  color: #F50057;
+}
+
+.menu li{
+  color: #D1C4E9;
+}
+
+.item{
+  margin-left: 10px;
+}
+
+.column-right{
+  background-color: #FCE4EC;
+  margin-top: 10px;
+}
+
+.fecha-comida{
+  color: #F50057;
+}
+
+.articulo-cocina{
+  text-align: justify;
+  font-size: 18px;
+}
+
+.comentarios{
+  margin-top: 5px;
+  border-radius: 10px;
+  border: 1px solid #9E9E9E;
+}
+
+.comentario-texto{
+  text-align: justify;
+  font-size: 18px;
+}
